@@ -72,8 +72,6 @@ A curation of WebAssembly (Wasm) resources, projects, and communities.
 ### Tools
 
 - [Wasm Explorer](https://mbebenita.github.io/WasmExplorer/) - Visualize and debug Wasm binaries.
-- [Wabt](https://github.com/WebAssembly/wabt) - WebAssembly Binary Toolkit.
-- [wasm-opt](https://github.com/WebAssembly/binaryen) - WebAssembly optimizer.
 - [wasm2c](https://github.com/WebAssembly/wabt/tree/main/wasm2c) - Convert Wasm binaries to C.
 
 ### Frameworks
