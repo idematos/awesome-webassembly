@@ -47,7 +47,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Compilers
 
-- [Emscripten](https://emscripten.org/) - Compile C and C++ to Wasm.
+- [Emscripten](https://emscripten.org/) - Compile C and C++ to WebAssembly.
 - [AssemblyScript](https://www.assemblyscript.org/) - TypeScript-like language compiled to WebAssembly.
 - [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure for WebAssembly.
 - [TinyGo](https://tinygo.org/) - Go compiler for WebAssembly.
@@ -56,7 +56,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 - [Wasmtime](https://wasmtime.dev/) - Standalone WebAssembly runtime.
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance WebAssembly runtime.
-- [WAVM](https://github.com/WAVM/WAVM) - WebAssembly Virtual Machine.
+- [WAVM](https://github.com/WAVM/WAVM) - WebAssembly virtual machine.
 - [Wasm3](https://github.com/wasm3/wasm3) - Small, fast WebAssembly interpreter.
 - [Wasmer](https://wasmer.io/) - WebAssembly runtime for desktop, cloud, and edge.
 
@@ -66,19 +66,19 @@ A curation of WebAssembly resources, projects, and communities.
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Interoperability between Rust and JavaScript.
 - [wasmer-js](https://github.com/wasmerio/wasmer-js) - WebAssembly runtime for JavaScript.
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Build, test, and publish Rust-generated Wasm.
-- [Wabt](https://github.com/WebAssembly/wabt) - WebAssembly Binary Toolkit.
-- [WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface.
+- [Wabt](https://github.com/WebAssembly/wabt) - WebAssembly binary tolkit.
+- [WASI](https://github.com/WebAssembly/WASI) - WebAssembly system interface.
 
 ### Tools
 
-- [Wasm Explorer](https://mbebenita.github.io/WasmExplorer/) - Visualize and debug Wasm binaries.
-- [wasm2c](https://github.com/WebAssembly/wabt/tree/main/wasm2c) - Convert Wasm binaries to C.
+- [Wasm Explorer](https://mbebenita.github.io/WasmExplorer/) - Visualize and debug WebAssembly binaries.
+- [wasm2c](https://github.com/WebAssembly/wabt/tree/main/wasm2c) - Convert WebAssembly binaries to C.
 
 ### Frameworks
 
 - [Blazor](https://blazor.net/) - .NET web framework running on WebAssembly.
 - [Yew](https://yew.rs/) - Rust framework for building web applications using WebAssembly.
-- [Leptos](https://github.com/leptos-rs/leptos) - Full-stack Rust framework for Wasm web apps.
+- [Leptos](https://github.com/leptos-rs/leptos) - Full-stack Rust framework for WebAssembly web apps.
 
 ## Communities
 
