@@ -23,11 +23,8 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Basics
 
+- [WebAssembly MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
-- [WebAssembly Concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
-- [WebAssembly Binary Format](https://webassembly.github.io/spec/core/binary/index.html)
-- [WebAssembly Text Format](https://webassembly.github.io/spec/core/text/index.html)
-- [WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/JavaScript_interface)
 
 ### Articles
 
