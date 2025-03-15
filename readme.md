@@ -23,19 +23,16 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Basics
 
+- [WebAssembly MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
-- [WebAssembly Concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
-- [WebAssembly Binary Format](https://webassembly.github.io/spec/core/binary/index.html)
-- [WebAssembly Text Format](https://webassembly.github.io/spec/core/text/index.html)
-- [WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/JavaScript_interface)
 
 ### Articles
 
-- [Introduction to WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [Rust and WebAssembly](https://rustwasm.github.io/book/)
+- [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/) - Eric Elliott, 2024.
 
 ### Books
 
+- [Rust and WebAssembly](https://rustwasm.github.io/book/)
 - [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 - [The Art of WebAssembly](https://nostarch.com/art-webassembly)
 
