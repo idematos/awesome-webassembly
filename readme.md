@@ -32,9 +32,9 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Books
 
-- [Rust and WebAssembly](https://rustwasm.github.io/book/)
-- [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
-- [The Art of WebAssembly](https://nostarch.com/art-webassembly)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) - Open-source book describing how to use Rust and WebAssembly together.
+- [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/) - Kevin Hoffman, 2019.
+- [The Art of WebAssembly](https://nostarch.com/art-webassembly) - Rick Battagline, 2021.
 
 ### Videos
 
