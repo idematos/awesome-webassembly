@@ -31,6 +31,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [What is WebAssembly?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6) - Eric Elliott, 2015.
 - [7 Things You Should Know About WebAssembly](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/) - Sebastian Peyrott, 2015.
 - [WebAssembly Demystified](https://floooh.github.io/2017/06/09/webassembly-demystified.html) - Andre Weissflog, 2017.
+- [Why WebAssembly?](https://medium.com/dfinity/why-webassembly-f21967076e4) - Andreas Rossberg, 2018.
 - [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/) - Eric Elliott, 2024.
 
 ### Books
