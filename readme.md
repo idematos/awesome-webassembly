@@ -28,6 +28,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Articles
 
+- [What is WebAssembly?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6) - Eric Elliott, 2015.
 - [7 Things You Should Know About WebAssembly](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/) - Sebastian Peyrott, 2015.
 - [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/) - Eric Elliott, 2024.
 
