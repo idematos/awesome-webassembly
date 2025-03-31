@@ -38,7 +38,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Videos
 
-- [What is WebAssembly?](https://www.youtube.com/watch?v=HktWin_LPf4)
+- [What is WebAssembly?](https://www.youtube.com/watch?v=HktWin_LPf4) - Lin Clark, 2017.
 
 ## Projects
 
