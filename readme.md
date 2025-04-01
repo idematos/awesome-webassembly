@@ -3,7 +3,6 @@
 A curation of WebAssembly resources, projects, and communities. 
 > [WebAssembly](https://webassembly.org/) (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 
-
 ## Contents
 
 - [Resources](#resources)
@@ -43,6 +42,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 ### Videos
 
+- [WebAssembly](https://www.youtube.com/watch?v=NhAPPQqKCi8) - Nick Bray, 2015.
 - [What is WebAssembly?](https://www.youtube.com/watch?v=HktWin_LPf4) - Lin Clark, 2017.
 
 ## Projects
