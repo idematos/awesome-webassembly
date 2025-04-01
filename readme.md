@@ -45,6 +45,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [WebAssembly](https://www.youtube.com/watch?v=NhAPPQqKCi8) - Nick Bray, 2015.
 - [What is WebAssembly?](https://www.youtube.com/watch?v=HktWin_LPf4) - Lin Clark, 2017.
 - [Get Going with WebAssembly](https://www.youtube.com/watch?v=iTrx0BbUXI4) - Johan Brandhorst, 2018.
+- [WebAssembly and the Death of JavaScript](https://www.youtube.com/watch?v=pBYqen3B2gc) - Colin Eberhardt, 2018.
 
 ## Projects
 
