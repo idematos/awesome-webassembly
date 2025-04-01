@@ -44,6 +44,7 @@ A curation of WebAssembly resources, projects, and communities.
 
 - [WebAssembly](https://www.youtube.com/watch?v=NhAPPQqKCi8) - Nick Bray, 2015.
 - [What is WebAssembly?](https://www.youtube.com/watch?v=HktWin_LPf4) - Lin Clark, 2017.
+- [Get Going with WebAssembly](https://www.youtube.com/watch?v=iTrx0BbUXI4) - Johan Brandhorst, 2018.
 
 ## Projects
 
@@ -61,7 +62,6 @@ A curation of WebAssembly resources, projects, and communities.
 - [WAVM](https://github.com/WAVM/WAVM) - WebAssembly virtual machine.
 - [Wasm3](https://github.com/wasm3/wasm3) - Small, fast WebAssembly interpreter.
 - [Wasmer](https://wasmer.io/) - WebAssembly runtime for desktop, cloud, and edge.
-
 
 ### Libraries
 
