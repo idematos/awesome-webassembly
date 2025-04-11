@@ -36,6 +36,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [The Web Assembles](https://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf) - Chris Price and Colin Eberhardt, 2017.
 - [An Empirical Study of Real-World WebAssembly Binaries](https://dlehmann.eu/publications/WasmBench-www2021.pdf) - Aaron Hilbig, Daniel Lehmann, and Michael Pradel, 2021.
 - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf) - Abhinav Jangda, Bobby Powers, Emery D. Berger, and Arjun Guha, 2019.
+- [Provably-Safe Multilingual Software Sandboxing using WebAssembly](https://www.usenix.org/system/files/sec22-bosamiya.pdf) - Jay Bosamiya, Wen Shih Lim, and Bryan Parno, 2022.
 
 ### Books
 
