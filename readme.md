@@ -35,6 +35,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/) - Eric Elliott, 2024.
 - [The Web Assembles](https://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf) - Chris Price and Colin Eberhardt, 2017.
 - [An Empirical Study of Real-World WebAssembly Binaries](https://dlehmann.eu/publications/WasmBench-www2021.pdf) - Aaron Hilbig, Daniel Lehmann, and Michael Pradel, 2021.
+- [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf) - Abhinav Jangda, Bobby Powers, Emery D. Berger, and Arjun Guha, 2019.
 
 ### Books
 
