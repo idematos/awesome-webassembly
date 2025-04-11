@@ -34,6 +34,7 @@ A curation of WebAssembly resources, projects, and communities.
 - [The world's easiest introduction to WebAssembly](https://medium.com/free-code-camp/webassembly-with-golang-is-fun-b243c0e34f02) - Martin Olsansky, 2019.
 - [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/) - Eric Elliott, 2024.
 - [The Web Assembles](https://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf) - Chris Price and Colin Eberhardt, 2017.
+- [An Empirical Study of Real-World WebAssembly Binaries](https://dlehmann.eu/publications/WasmBench-www2021.pdf) - Aaron Hilbig, Daniel Lehmann, and Michael Pradel, 2021.
 
 ### Books
 
