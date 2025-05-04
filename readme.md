@@ -93,3 +93,8 @@ A curation of WebAssembly resources, projects, and communities.
 - [WebAssembly GitHub Organization](https://github.com/WebAssembly)
 - [W3C WebAssembly Group](https://www.w3.org/wasm/)
 - [WebAssembly Subreddit](https://www.reddit.com/r/webassembly/)
+
+
+## Contributing
+
+Contributions are welcome. Please read the [contribution guidelines](https://github.com/idematos/awesome-webassembly/blob/main/contributing.md) before submitting your changes.
